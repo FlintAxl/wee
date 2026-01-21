@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en-ca">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta http-equiv="refresh" content="30; URL='https://ontario.ca/'" />
+
+		<title>Page Not Found | Ministry of Food, Agriculture, and Rural Affairs</title>
+
+		<link rel="stylesheet" href="/css/supportCSSFiles/basicRules.css" type="text/css" />
+		<link rel="stylesheet" href="/errorPages/404.css" type="text/css" />
+	</head>
+
+	<body>
+		<header>
+			<a href="" title="">
+				<img src="/images/ontario_logo.gif" alt="Ontario"/>
+			</a>
+
+			<h1>
+				<span class="sub">Ministry of</span> Agriculture, Food <span class="sub">and</span> Rural Affairs
+			</h1>
+
+			<div aria-hiden="true"></div>
+		</header>
+
+		<main>
+			<section>
+				<h2>
+					The page you're looking for cannot be found <em>(404 Not Found)</em>
+				</h2>
+
+				<p>
+					We're sorry, the page you're looking for cannot be found.
+				</p>
+
+				<p>
+					We're moving our content to Ontario.ca, so the information you're looking for may be removed, or moved to Ontario.ca.
+				</p>
+
+				<p>
+					You will be directed to Ontario.ca in a few moments.  If you're not redirected, please visit the <a href="https://www.ontario.ca/page/government-ontario" title="The Government of Ontario Website">Government of Ontario website</a> to find the information you need.
+				</p>
+
+				<p>
+					Thank you!
+				</p>
+			</section>
+
+			<section lang="fr-ca">
+				<h2>
+					<em>La page que vous cherchez est introuvable (404 Page non trouvée)</em>
+				</h2>
+
+				<p>
+					Nous sommes désolés, la page que vous cherchez est introuvable.
+				</p>
+
+				<p>
+					Nous déplaçons notre contenu vers le site Ontario.ca. Il est donc possible que les renseignements que vous cherchez aient été enlevés ou déplacés au site Ontario.ca.
+				</p>
+
+				<p>
+					Vous serez orienté vers le site Ontario.ca dans quelques instants. Si vous ne l'êtes pas, veuillez vous rendre au site <a href="https://www.ontario.ca/fr/page/gouvernement-de-lontario" title="Le site Web du gouvernement de l'Ontario">du gouvernement de l'Ontario</a> pour y trouver les renseignements dont vous avez besoin.
+				</p>
+
+				<p>
+					Merci!
+				</p>
+			</section>
+		</main>
+
+		<footer>
+			<div>
+				<a href="http://www.ontario.ca/page/copyright-information-c-queens-printer-ontario" title="Site copyright">
+					&copy; Queen's Printer for Ontario, 2016
+				</a>
+				
+				<a href="http://www.ontario.ca/page/terms-use">
+					Terms of Use
+				</a>
+			</div>
+		</footer>
+	</body>
+</html>
